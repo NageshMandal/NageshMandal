@@ -2,7 +2,7 @@
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/nagesh-mandal-134b70237" target="_blank"> Nagesh Mandal </a></h1>
 <img width="40%" align="right"   src="https://miro.medium.com/max/850/0*7Q3yvSIv_t0ioJ-Z.gif" >
 
-I am <b>Nagesh Mandal</b> pursuing my <b>Computer Science and Engineering Degree</b> from <b>Chaibasa Engineering College<b>, As of now, I am focused on <b>web development, Data Science and Machine Learning ,BlockChain </b> but still exploring many fields🔥
+I am <b>Nagesh Mandal</b> pursuing my <b>Computer Science and Engineering Degree</b> from <b>Chaibasa Engineering College</b>, As of now, I am focused on <b>web development, Data Science and Machine Learning ,BlockChain </b> but still exploring many fields🔥
 
 <h3 align="center"> Paasionate Web Developer | Machine Learning Enthusiast | BlockChain Developer | Keyboardist </h3>
 

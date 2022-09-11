@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nagesh Mandal</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img aline="left" alt="coding" width="400" src="https://miro.medium.com/max/850/0*7Q3yvSIv_t0ioJ-Z.gif">
+<img aline="left" alt="coding" width="40%" src="https://miro.medium.com/max/850/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nageshmandal&label=Profile%20views&color=0e75b6&style=flat" alt="nageshmandal" /> </p>
 
 - 📫 How to reach me **evergreennageshmandal@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h1 align="center">Let's Get Connected</h1>
 <p align="left">
 <a href="https://twitter.com/@nageshmandal75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nageshmandal75" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nagesh-mandal-134b70237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nagesh-mandal-134b70237" height="30" width="40" /></a>

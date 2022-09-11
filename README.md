@@ -1,4 +1,4 @@
-![]()
+![]("https://github.com/NageshMandal/STARBUCKS_Landing_Page/blob/main/images/Picsart_22-09-11_12-47-19-306.jpg")
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/nagesh-mandal-134b70237" target="_blank"> Nagesh Mandal </a></h1>
 <img width="40%" align="right"   src="https://miro.medium.com/max/850/0*7Q3yvSIv_t0ioJ-Z.gif" >
 

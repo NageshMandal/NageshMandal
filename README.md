@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nagesh Mandal</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img aline="center" alt="coding" width="40%" src="https://miro.medium.com/max/850/0*7Q3yvSIv_t0ioJ-Z.gif">
+<div aline="center">
+   <img alt="coding" width="40%" src="https://miro.medium.com/max/850/0*7Q3yvSIv_t0ioJ-Z.gif">
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nageshmandal&label=Profile%20views&color=0e75b6&style=flat" alt="nageshmandal" /> </p>
 

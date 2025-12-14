@@ -6,7 +6,7 @@ I am <b>Nagesh Mandal</b> pursuing my <b>Computer Science and Engineering Degree
 
 <h3 align="center"> Paasionate Web Developer | Machine Learning Enthusiast | BlockChain Developer | Keyboardist </h3>
 
-<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=nageshmandal&label=Profile%20views&color=0e75b6&style=flat" alt="SauravMukherjee" /> </p></h3>
+<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=nageshmandal&label=Profile%20views&color=0e75b6&style=flat" alt="nagesh" /> </p></h3>
    <div align="center">
 
 <h1>Technical Skills 🛠</h1>
